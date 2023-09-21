@@ -1,0 +1,23 @@
+PODS:
+  - SnapKit (5.6.0)
+  - ZJModalTransition (0.1.0):
+    - SnapKit
+
+DEPENDENCIES:
+  - ZJModalTransition (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  ZJModalTransition:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  ZJModalTransition: e7db190e128cf9cf352d89b3418505ffd3096a46
+
+PODFILE CHECKSUM: d551dad47b41aa5b85e75ecc3a6eebd2e4590fbe
+
+COCOAPODS: 1.11.2
