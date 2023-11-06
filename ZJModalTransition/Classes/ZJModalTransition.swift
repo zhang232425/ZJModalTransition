@@ -23,9 +23,9 @@ public final class ZJModalTransition: NSObject {
         super.init()
     }
     
-    public func prepare(viewcontroller: UIViewController) {
-        viewcontroller.modalPresentationStyle = .custom
-        viewcontroller.transitioningDelegate = self
+    public func prepare(viewController: UIViewController) {
+        viewController.modalPresentationStyle = .custom
+        viewController.transitioningDelegate = self
     }
     
 }
